@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Steven
+- 👀 I’m interested in software development for linux distros
+- 🌱 I’m currently learning C++ 
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me you cant I am a ghost
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: Wombat poop are cube-shaped. Wombats, native to Australia, produce about 80 to 100 cube-shaped droppings each night. This unique shape prevents the poop from rolling away, helping wombats mark their territory more effectively!
